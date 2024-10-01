@@ -1,0 +1,22 @@
+﻿props gold 10000 		增加金币
+props diamond 10000		增加钻石
+props exp 1000			增加经验
+props friendShip 100友情点
+props item 1001 2			增加道具（默认数量1000，2表示两个一千）
+props copper 100		增加应援物（活力）
+props starCoin 10000 增加星币
+props mission 10101		设置副本为三星通关
+ctrl + 8 开关新手引导
+ctrl +  9 开关音乐
+ctrl + 4 快速通过三消 （必须在选卡后）
+ctrl + 3  开关三消随机出炸弹
+ctrl + b 开启gm面板
+ctrl shift enter调出元素面板
+背包删除指定物品 props deleteItem 1000（默认删除一千个）
+清空背包所有物品 props deleteItem 1000 0
+协议指令 debug + 协议号 + 参数
+props fight 0通关当前战斗关卡
+ctrl +8开启新手引导
+props power 100增加贡献
+props project 0立刻完成企划中心子项目推进
+props missionGroup 51200通关副本章节
